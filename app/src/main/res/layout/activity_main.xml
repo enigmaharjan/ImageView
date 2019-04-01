@@ -15,16 +15,19 @@
         android:id="@+id/rboBatman"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_weight="1"
         android:text="Batman"/>
     <RadioButton
         android:id="@+id/rboJoker"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_weight="1"
         android:text="Joker" />
     <RadioButton
         android:id="@+id/rboHulk"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_weight="1"
         android:text="Hulk" />
     </RadioGroup>
     <ImageView
